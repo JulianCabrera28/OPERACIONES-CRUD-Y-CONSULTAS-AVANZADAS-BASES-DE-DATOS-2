@@ -1,0 +1,14 @@
+# Entrega digital: Unidad 3 - Julian Camilo Cabrera Echeverri
+# NO subir el ambiente de trabajo interno (binarios ~800 MB, base local, etc.)
+desarrollo/
+
+#archivos del sistema
+Thumbs.db
+desktop.ini
+~$*.docx
+~$*.doc
+*.tmp
+
+#el video se sube a Drive/la plataforma y se enlaza; si prefieres
+#subirlo al repo tambien, borra la linea siguiente
+*.mp4
